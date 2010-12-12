@@ -2,7 +2,8 @@
 set :application, "phy"
 
 set :domain,      "makevoid.dlinkddns.com"
-set :port, 3333
+set :domain,      "phy"
+#set :port, 3333
 # git
 
 # #set :repository,  "svn://#{domain}/svn/#{application}"
